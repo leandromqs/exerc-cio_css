@@ -86,3 +86,13 @@ time {
     font-style: italic;
     color: #858585;
 }
+
+
+
+#tech {
+    background-color: rgba(0,0,255,0.1);
+}
+
+#entertainment {
+    background-color: rgba(255, 81, 0, 0.1);
+}
