@@ -74,13 +74,23 @@ section .conteiner a:hover {
 }
 
 #sports {
-    background-color: rgba(0, 0, 255, 0.1);
+    background-color: rgba(0, 255, 0, 0.1);
 }
 
 
 #economy{
-    background-color: rgba(0, 0, 255, 0.2);
+    background-color: rgba(255, 255, 0, 0.1);
 }
+
+#tech {
+    background-color: rgba(0,0,255,0.1);
+}
+
+#entertainment {
+    background-color: rgba(255, 81, 0, 0.1);
+}
+
+
 
 time {
     font-style: italic;
